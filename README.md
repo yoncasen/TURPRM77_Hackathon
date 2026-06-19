@@ -1,5 +1,4 @@
 # TURPRM77_Hackathon
 
-## yonca
-
-### şen
+## Projem için fikir:
+> 
